@@ -8,7 +8,7 @@
 <
 <p align="left"> <a href="https://twitter.com/koopacode" target="blank"><img src="https://img.shields.io/twitter/follow/koopacode?logo=twitter&style=for-the-badge" alt="koopacode" /></a> </p>
 
-- 🔭 I’m currently working on t= OTU5ODUxMzcyMDc1OTc0NzU3.GXxe9v.DoiMaFtlfRpbuUocsYcJrJTDdnUB250XU0edSQ [KoopaCode Development](discord.gg/KoopaCode)
+- 🔭 I’m currently working on t= [KoopaCode Development](discord.gg/rfmUeUTtus)
 
 - 👯 I’m looking to collaborate on [MillionNetwork](discord.gg/MillionNetwork)
 
