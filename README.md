@@ -8,13 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/koopacode" target="blank"><img src="https://img.shields.io/twitter/follow/koopacode?logo=twitter&style=for-the-badge" alt="koopacode" /></a> </p>
 
-- 🔭 I’m currently working on t= [KoopaCode Development](discord.gg/rfmUeUTtus)
+- 🔭 I’m currently working on [Koopa GPT](discord.gg/kbns)
 
-- 👯 I’m looking to collaborate on [MillionNetwork](discord.gg/MillionNetwork)
+- 👯 I’m looking to collaborate on [Koopa & Bloc](discord.gg/kbns)
 
-- 🤝 I’m looking for help with [Koopa AIO](https://github.com/KoopaCode/Koopa-AIO/)
-
-- 📝 I regularly write articles on [https://Koopa.life/Blog](https://Koopa.life/Blog)
+- 🤝 I’m looking for help with  [Koopa GPT](discord.gg/kbns)
 
 - 💬 Ask me about **Coding**
 
