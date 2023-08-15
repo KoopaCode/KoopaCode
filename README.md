@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Koopa GPT<br><br>👯 I’m looking to collaborate on Koopa & Bloc<br><br>🤝 I’m looking for help with Koopa GPT<br><br>💬 Ask me about Coding<br><br>📄 Know about my experiences In Coding<br><br>⚡ Fun fact I Make Most Of My Source Code Public
+🔭 I’m currently working on Koopa Auth<br><br>👯 I’m looking to collaborate on Koopa Auth v3<br><br>🤝 I’m looking for help with Growing<br><br>💬 Ask me about Coding<br><br>📄 Know about my experiences In Coding<br><br>⚡ Fun fact I Make Most Of My Source Code Public
 
 
 ## 🌐 Socials:
